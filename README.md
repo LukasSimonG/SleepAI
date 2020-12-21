@@ -22,6 +22,8 @@ Through this sources information can be combined to compute the amount of sleep 
 
 Data are gathered from the smartphone of the user and enriched by live data from the smartwatch. Over time the data is expanded by the experiences from the user by implementing the app in his daily life.
 
+![image of a cat](/99A7FB31-DA7A-4461-8C69-4F6C46D19DE7.jpeg)
+
 
 ## Challenges
 
