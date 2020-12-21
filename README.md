@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-This project is about using the power of AI and combining it with the data from modern devices like FitBits, Smartphones, Smartwatches, etc.  Maximising the quality and quantity of sleep by considering important parameters and processing them with AI is the goal of SleepAI.
+This project is about using the power of AI and combining it with the data from modern devices like FitBits, Smartphones, Smartwatches, etc. Maximising the quality and quantity of sleep by considering important parameters and processing them with AI is the goal of SleepAI.
 
 
 ## Background
