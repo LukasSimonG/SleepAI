@@ -4,11 +4,12 @@ Final project for the Building AI course
 
 ## Summary
 
-Probably everyone experienced the fact that the quality and the quantity of sleep is varying from day to day and it depends on many different parameters.This project is about using the power of AI and combining it with the data from modern devices like FitBits, Smartphones, Smartwatches, etc.  Maximising the quality and quantity of sleep by considering important parameters and processing them with AI is the goal of SleepAI. This idea came to my mind during the course: Building AI course project.
+This project is about using the power of AI and combining it with the data from modern devices like FitBits, Smartphones, Smartwatches, etc.  Maximising the quality and quantity of sleep by considering important parameters and processing them with AI is the goal of SleepAI. This idea came to my mind during the course: Building AI course project.
 
 
 ## Background
 
+Probably everyone experienced the fact that the quality and the quantity of sleep is varying from day to day and it depends on many different parameters.
 I experienced a huge difference in the quality of my sleep depending on various parameters like the time i went to bed, the lenght of my sleep and if my day was exhausting or not. But also with most of the parameters I can evaluate, I experienced a difference in the feeling after waking up. It varies from fit and instantly awake to tired and snoozing as long as possible. With SleepAI I want to build the perfect sleep schedule to maximise the days where you wake up fit and motivated.
 
 
